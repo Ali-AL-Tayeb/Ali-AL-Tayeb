@@ -18,13 +18,19 @@ I'm a data enthusiast passionate about analyzing and visualizing real-world data
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,cpp,mysql,docker,github,git,vscode,pycharm)](https://skillicons.dev)
 
-## studying 
-[![My Skills](https://skillicons.dev/icons?i=matlab,rust,linux,aws)](https://skillicons.dev)
+## Studying 
+[![My Skills](https://skillicons.dev/icons?i=pytorch,matlab,arch,aws,azure)](https://skillicons.dev)
 
 
 
 ## Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:aliatip760@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alial-tayeb/)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-AL-Tayeb&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 
 
