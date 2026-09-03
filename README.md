@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 Welcome to my GitHub Profile</h1>
+<h1 align="center">Hi there!  Welcome to my GitHub Profile</h1>
 <h3 align="center">Machine Learning Engineer | Data Engineer | Bioinformatician</h3>
 
 ## About Me
@@ -9,15 +9,15 @@ My interests sit at the intersection of **Machine Learning, Data Engineering, an
 
 ## What I Do
 
-* 🤖 **Machine Learning** – Building, training, evaluating, and improving machine learning models
-* 🧠 **Deep Learning** – Exploring neural networks and frameworks such as **PyTorch** and **TensorFlow**
-* 🐍 **Python & ML Development** – Developing data and ML workflows using **NumPy, Pandas, and Scikit-learn**
-* 📊 **Data Engineering** – Cleaning, transforming, and preparing real-world datasets for machine learning
-* ⚙️ **ML Pipelines** – Building reproducible workflows from data ingestion to model evaluation
-* 🚀 **Model Deployment** – Learning how to package and deploy machine learning models into practical applications
-* 🐳 **MLOps & Containers** – Working with **Docker, Git, and GitHub** to make ML projects reproducible and maintainable
-* 🧬 **Bioinformatics** – Applying computational and machine learning techniques to biological and genomic data
-* ☁️ **Cloud & Infrastructure** – Developing skills in **AWS and Azure** for scalable ML workloads
+*  **Machine Learning** – Building, training, evaluating, and improving machine learning models
+*  **Deep Learning** – Exploring neural networks and frameworks such as **PyTorch** and **TensorFlow**
+*  **Python & ML Development** – Developing data and ML workflows using **NumPy, Pandas, and Scikit-learn**
+*  **Data Engineering** – Cleaning, transforming, and preparing real-world datasets for machine learning
+*  **ML Pipelines** – Building reproducible workflows from data ingestion to model evaluation
+*  **Model Deployment** – Learning how to package and deploy machine learning models into practical applications
+*  **MLOps & Containers** – Working with **Docker, Git, and GitHub** to make ML projects reproducible and maintainable
+*  **Bioinformatics** – Applying computational and machine learning techniques to biological and genomic data
+*  **Cloud & Infrastructure** – Developing skills in **AWS and Azure** for scalable ML workloads
 
 ## Languages and Tools
 
@@ -49,13 +49,8 @@ My goal is to build ML systems that are not only accurate, but also **reproducib
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:aliatip760@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alial-tayeb/)
 
-<details>
-  <summary>GitHub Stats ⚡</summary>
-
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-AL-Tayeb\&layout=compact\&theme=blueberry\&count_private=true\&hide_border=true)</a>
-
-</details>
 
 
 
-### Thanks for stopping by! 🚀
+
+### Thanks for stopping by! 
