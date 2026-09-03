@@ -56,8 +56,6 @@ My goal is to build ML systems that are not only accurate, but also **reproducib
 
 </details>
 
-### Employer?
 
-> [!IMPORTANT] <a href="https://drive.google.com/file/d/12kr1THoe8eaUVsK5R01HqzDkLiLSIgEC/view" download>Download my resume</a>
 
 ### Thanks for stopping by! 🚀
